@@ -12,6 +12,7 @@ We welcome bug reports, feature ideas, and code improvements.
 2.  Clone your fork:
 
    ```git clone https://github.com/YOUR-USERNAME/QuickHistory.git\```
+   
    ```cd QuickHistory```
 
 3.  Install dependencies:
