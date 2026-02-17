@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "QuickHistory",
+  "description": "Ask questions using your browser history as personal context through LangChain + OpenAI.",
+  "version": "0.1.0",
+  "minimum_chrome_version": "120",
+  "permissions": ["history", "storage"],
+  "host_permissions": ["https://api.openai.com/*"],
+  "background": {
+    "service_worker": "agent.js",
+    "type": "module"
+  },
+  "options_page": "settings.html",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "QuickHistory",
+    "default_icon": "icon.png"
+  }
+}
