@@ -7,7 +7,7 @@ We welcome bug reports, feature ideas, and code improvements.
 
 ## Getting Started
 
-1.  Fork this repository\
+1.  Fork this repository
 
 2.  Clone your fork:
 
