@@ -94,4 +94,4 @@ Areas that are friendly for new contributors:
 
 ------------------------------------------------------------------------
 
-Thank you for helping improve QuickHistory 🚀
+Thank you for helping improve QuickHistory 
