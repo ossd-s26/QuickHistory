@@ -11,16 +11,16 @@ We welcome bug reports, feature ideas, and code improvements.
 
 2.  Clone your fork:
 
-    git clone https://github.com/YOUR-USERNAME/QuickHistory.git\
-    cd QuickHistory
+   ```git clone https://github.com/YOUR-USERNAME/QuickHistory.git\```
+   ```cd QuickHistory```
 
 3.  Install dependencies:
 
-    npm install
+    ```npm install```
 
 4.  Build the extension:
 
-    npm run build
+    ```npm run build```
 
 5.  Load the extension in Chrome:
 
@@ -37,13 +37,13 @@ Please follow this workflow:
 
 1.  Create a new branch from main
 
-    git checkout -b feature/your-feature-name
+    ```git checkout -b feature/your-feature-name```
 
 2.  Make your changes
 
 3.  Run type checking:
 
-    npm run check
+    ```npm run check```
 
 4.  Commit your changes with clear messages
 
@@ -65,7 +65,7 @@ Before submitting a PR:
 
 ## Code Style
 
--   Use TypeScript\
+-   Use TypeScript
 -   Follow the existing project structure\
 -   Prefer simple and readable code\
 -   Reuse shared types from src/shared.ts when possible
